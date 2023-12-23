@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 💬 Ask me about **Python | Data Science | Data Analytics**
+- 💬 Ask me about **Python | Data Science | AI | Deep Learning | Machine Learning**
 
 - 📫 How to reach me **gardazisarib@gmail.com**
 
