@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ML and Data Science Projects**
+- 🔭 I’m currently working on **Deep Learning, Computer Vision, ML and Data Science Projects**
 
-- 💬 Ask me about **Python | Data Science | AI | Deep Learning | Machine Learning**
+- 💬 Ask me about **Python | Data Science | AI | Deep Learning | Machine Learning | Computer Vision**
 
 - 📫 How to reach me **gardazisarib@gmail.com**
 
