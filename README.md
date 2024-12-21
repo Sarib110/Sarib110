@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be832922391491.58c25558f0fe7.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Syed Sarib Naveed</h1>
-<h3 align="center">Unpacking Computer Science</h3>
+<h3 align="center">Exploring Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.49bd0ccbb9e904407116b65ce6a50d41?rik=gtbbBbxEatJO7Q&riu=http%3a%2f%2fclipart-library.com%2fdata_images%2f339374.png&ehk=b72BFiTb%2bWzDa68c21lrBotne2tuZjAuU4RhvZEn9ns%3d&risl=&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarib110&label=Profile%20views&color=0e75b6&style=flat" alt="sarib110" /> </p>
