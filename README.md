@@ -37,39 +37,18 @@ Software Engineer with expertise in **AI systems** and **backend development**. 
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nodejs,react,angular,docker,postgres,mysql,gcp,git,github,linux&perline=7" />
 </p>
 
-**AI & ML:** LangChain · LangGraph · Google Gemini · RAG · pgvector · FAISS  
-**Backend:** FastAPI · Node.js · PostgreSQL · MySQL · Docker · REST APIs  
-**Frontend:** Angular · React · TypeScript · JavaScript  
-**Cloud:** Google Cloud Run · Linux · Git
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarib110&show_icons=true&theme=vue-dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarib110&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarib110&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarib110&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarib110&theme=vue-dark&hide_border=true" />
 </p>
-
----
-
-## 🚀 Key Projects
-
-**AI Procurement Platform**  
-Production system with 10+ LangGraph agents for document processing and compliance automation  
-*Tech: LangChain, Google Gemini, FastAPI, PostgreSQL, Docker*
-
-**BillSpree - Billing System**  
-Enterprise billing infrastructure serving 3,000+ customers per cycle  
-*Tech: Angular, Node.js, MySQL, REST APIs*
-
-**RAG Document Intelligence**  
-Vector search system with 92% retrieval accuracy across 10,000+ documents  
-*Tech: Python, pgvector, FAISS, LangChain*
 
 ---
 
@@ -84,8 +63,6 @@ Vector search system with 92% retrieval accuracy across 10,000+ documents
 ---
 
 ## 📫 Let's Connect
-
-I'm open to discussing **AI systems**, **backend architecture**, and collaboration opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-sarib-naveed">
