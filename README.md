@@ -42,12 +42,12 @@ Software Engineer with expertise in **AI systems** and **backend development**. 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarib110&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarib110&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarib110&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarib110&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarib110&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarib110&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
